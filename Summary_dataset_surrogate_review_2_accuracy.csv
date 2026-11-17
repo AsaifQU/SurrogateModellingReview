@@ -1,0 +1,43 @@
+﻿Number in Table 5,Reference number in the article,First author,Year,Section of the chain,Origin of the training data,Primary task,Held-out R2 of the study,Unexplained variance (1 - R2),Kind of evidence,Number of reported values behind the study value,Lowest reported value,Highest reported value,Reported as a lower bound,Validation design,Form of the surrogate
+1,127,Che Mat,2026,Sweetening,Simulator runs,Process optimisation,0.736,0.264,Test set,22,-0.13,0.953,No,Separate dataset,Static
+2,74,Richard,2026,Sweetening,Simulator runs,Process optimisation,0.96,0.04,Validation set only,8,0.9,0.97,Yes,Random hold-out,Static
+3,138,Roshdi,2026,Sweetening,Simulator runs,Process optimisation,0.9365,0.0635,Cross-validated only,5,0.9279,0.99,No,No held-out data,Static
+5,85,Shokouhalaei,2026,Sweetening,Simulator runs,Process optimisation,0.975,0.025,Test set,1,0.975,0.975,No,k-fold cross-validation,Static
+6,140,Yarmohammadi,2026,Sweetening,Simulator runs,Process optimisation,0.7608,0.2392,Cross-validated only,1,0.7608,0.7608,No,No held-out data,Static
+17,125,Isa,2026,Sweetening,Simulator runs,Prediction,0.99875,0.00125,Test set,6,0.9749,0.9996,No,"Hold-out, method not stated",Static
+18,147,Karimi,2026,Sweetening,Simulator runs,Prediction,0.9913,0.0087,Cross-validated only,1,0.9913,0.9913,No,No held-out data,Static
+20,149,Rostami,2026,Sweetening,Plant records,Prediction,0.909,0.091,Validation set only,1,0.909,0.909,No,Random hold-out,Static
+24,152,Faqih,2024,Sweetening,Simulator runs,Prediction,0.995,0.005,Test set,20,0.896,0.998,No,"Hold-out, method not stated",Static
+26,154,Hakimi,2023,Sweetening,Simulator runs,Prediction,0.966,0.034,Validation set only,1,0.966,0.966,No,Random hold-out,Static
+30,158,Moghadasi,2021,Sweetening,Plant records,Prediction,0.98,0.02,Test set,6,0.98,0.99,No,"Hold-out, method not stated",Static
+31,159,Moghadasi,2021,Sweetening,Plant records,Prediction,0.98,0.02,Validation set only,1,0.98,0.98,No,Random hold-out,Static
+32,160,Tavakoli,2020,Sweetening,Plant records,Prediction,0.94,0.06,Test set,3,0.893,0.977,No,Random hold-out,Static
+42,50,Wang,2025,Sweetening,Mixed,Soft sensing,0.905,0.095,Validation set only,3,0.9,0.908,Yes,Random hold-out,Static
+43,47,Jiang,2024,Sweetening,Plant records,Soft sensing,0.905,0.095,Test set,1,0.905,0.905,No,Random hold-out,Static
+44,48,Jiang,2024,Sweetening,Mixed,Soft sensing,0.93025,0.06975,Test set,2,0.9152,0.9453,No,Random hold-out,Static
+53,65,Wang,2026,Sweetening,Plant records,Forecasting,0.705,0.295,Validation set only,2,0.61,0.8,Yes,Chronological hold-out,Dynamic
+54,109,Al-Mughairi,2026,Liquefaction,Simulator runs,Process optimisation,0.9805,0.0195,Test set,2,0.976,0.985,No,"Hold-out, method not stated",Static
+59,99,Alimardani,2024,Liquefaction,Simulator runs,Process optimisation,0.99632,0.00368,Test set,5,0.95456,0.99974,No,"Hold-out, method not stated",Static
+78,175,Yin,2026,Dehydration,Mixed,Process optimisation,0.9304,0.0696,Validation set only,2,0.9044,0.9564,No,"Hold-out, method not stated",Static
+80,177,Hedayati Moghaddam,2023,Dehydration,Simulator runs,Process optimisation,0.9823,0.0177,Cross-validated only,3,0.9716,0.9933,No,No held-out data,Static
+86,182,Goh,2024,Dehydration,Simulator runs,Prediction,0.9998,0.0002,Validation set only,6,0.9993,0.9999,No,Random hold-out,Static
+87,183,Hedayati Moghaddam,2024,Dehydration,Simulator runs,Prediction,0.99935,0.00065,Test set,2,0.9989,0.9998,No,Random hold-out,Static
+88,184,Wang,2024,Dehydration,Literature data,Prediction,0.994791,0.005209,Test set,2,0.990657,0.998926,No,k-fold cross-validation,Static
+89,36,Hamid,2022,Dehydration,Simulator runs,Prediction,0.99,0.01,Test set,5,0.99,0.99,Yes,"Hold-out, method not stated",Static
+99,190,Safarvand,2015,NGL recovery,Mixed,Prediction,0.986,0.014,Test set,1,0.986,0.986,No,"Hold-out, method not stated",Static
+102,45,Mandis,2021,NGL recovery,Simulator runs,Soft sensing,0.953,0.047,Validation set only,3,0.807,0.99,No,Not reported,Static
+103,62,Ma,2026,NGL recovery,Simulator runs,Control,1,0,Test set,9,0.996,1,No,Separate dataset,Dynamic
+104,63,Shahriari,2026,NGL recovery,Simulator runs,Control,0.9983,0.0017,Test set,4,0.9886,0.9991,No,"Hold-out, method not stated",Dynamic
+106,67,Pereira,2027,NGL recovery,Simulator runs,Forecasting,0.88,0.12,Validation set only,5,0.69,0.91,No,Separate dataset,Dynamic
+109,192,Pirouzfar,2025,Multi-unit plant,Simulator runs,Process optimisation,0.86995,0.13,Cross-validated only,4,0.7501,0.9331,No,No held-out data,Static
+115,198,Sabbagh,2021,Multi-unit plant,Simulator runs,Process optimisation,0.8937,0.1063,Cross-validated only,3,0.8384,0.9236,No,No held-out data,Static
+116,199,Sabbagh,2021,Multi-unit plant,Simulator runs,Process optimisation,0.8171,0.1829,Cross-validated only,1,0.8171,0.8171,No,No held-out data,Static
+118,201,Sabbagh,2020,Multi-unit plant,Simulator runs,Process optimisation,0.9215,0.0785,Cross-validated only,1,0.9215,0.9215,No,No held-out data,Static
+121,12,Souza,2026,Multi-unit plant,Plant records,Prediction,0.72,0.28,Validation set only,1,0.72,0.72,No,Random hold-out,Static
+122,204,Wu,2024,Multi-unit plant,Simulator runs,Prediction,0.9959,0.0041,Cross-validated only,1,0.9959,0.9959,No,No held-out data,Static
+126,206,Che Mat,2026,Nitrogen rejection and helium recovery,Simulator runs,Process optimisation,0.994,0.006,Cross-validated only,4,0.9865,0.9999,No,k-fold cross-validation,Static
+127,75,Shi,2026,Nitrogen rejection and helium recovery,Simulator runs,Process optimisation,0.8054,0.1946,Cross-validated only,2,0.786,0.8248,No,No held-out data,Static
+128,207,Xiao,2023,Nitrogen rejection and helium recovery,Simulator runs,Process optimisation,0.93685,0.06315,Cross-validated only,2,0.8927,0.981,No,No held-out data,Static
+129,70,Wilkins,2022,Nitrogen rejection and helium recovery,Simulator runs,Process optimisation,0.999,0.001,Test set,3,0.992,0.999,No,"Hold-out, method not stated",Static
+131,208,Alkatheri,2025,Specialised unit of the LNG chain,Plant records,Process optimisation,0.90743,0.09257,Validation set only,3,0.90438,0.99873,No,"Hold-out, method not stated",Static
+139,64,Wang,2026,Specialised unit of the LNG chain,Plant records,Forecasting,0.985665,0.01433,Test set,24,0.97677,0.99601,No,Chronological hold-out,Dynamic

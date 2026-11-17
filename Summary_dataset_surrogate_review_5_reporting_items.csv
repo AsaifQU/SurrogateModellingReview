@@ -1,0 +1,141 @@
+﻿Number in Table 5,Reference number in the article,First author,Year,Training data,Code or pseudo-code,Software framework and version,Hyperparameter values,Training time,Hardware,Feed envelope,Scope of the timing claim,Validation design,Items reported in full (of nine)
+1,127,Che Mat,2026,Not reported,Not reported,Not reported,Reported,Reported,Not reported,Reported,Reported,Reported,5
+2,74,Richard,2026,Partly reported,Not reported,Partly reported,Reported,Not reported,Not reported,Partly reported,Reported,Reported,3
+3,138,Roshdi,2026,Reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,4
+4,139,Shahouni,2026,Partly reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not applicable,Not reported,0
+5,85,Shokouhalaei,2026,Reported,Reported,Reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,5
+6,140,Yarmohammadi,2026,Reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,4
+7,141,Gholamzadeh,2025,Partly reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Reported,1
+8,142,Mohajeri,2024,Reported,Reported,Reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,5
+9,143,Chew,2022,Not reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+10,128,Liu,2021,Not reported,Not reported,Reported,Partly reported,Not reported,Reported,Reported,Not applicable,Reported,4
+11,144,Shang,2019,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Reported,1
+12,108,Graciano,2018,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,1
+13,145,Biyanto,2016,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+14,54,Nahdliyah,2016,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+15,146,Garmroodi Asil,2014,Reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+16,117,Ghiyami,2026,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+17,125,Isa,2026,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+18,147,Karimi,2026,Reported,Not reported,Not reported,Reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,2
+19,148,Patel,2026,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,0
+20,149,Rostami,2026,Partly reported,Not reported,Reported,Reported with differing values,Reported,Reported,Partly reported,Not applicable,Reported,4
+21,150,Gupta,2025,Partly reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,0
+22,151,Patel,2025,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,0
+23,129,Rendall,2025,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not reported,Reported,Partly reported,1
+24,152,Faqih,2024,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,0
+25,153,Alardhi,2023,Not reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Reported,3
+26,154,Hakimi,2023,Not reported,Not reported,Reported,Reported with differing values,Not reported,Not reported,Reported,Not applicable,Reported,3
+27,155,Patil,2023,Not reported,Not reported,Partly reported,Reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,1
+28,156,Tikadar,2023,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+29,157,Keshavarz Babaee Nejad,2022,Partly reported,Not reported,Partly reported,Reported,Reported,Not reported,Partly reported,Not applicable,Reported,3
+30,158,Moghadasi,2021,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,0
+31,159,Moghadasi,2021,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Reported,1
+32,160,Tavakoli,2020,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+33,161,Kwon,2017,Not reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+34,162,Nwaoha,2017,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+35,163,Rahmanpour,2015,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+36,53,Azizkhani,2014,Not reported,Reported,Reported,Partly reported,Reported,Not reported,Not reported,Reported,Reported,5
+37,164,Hafizi,2014,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+38,165,Rahmanpour,2014,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+39,166,Adib,2013,Not reported,Not reported,Partly reported,Partly reported,Reported,Reported,Partly reported,Not applicable,Reported,3
+40,167,Koolivand Salooki,2011,Not reported,Not reported,Partly reported,Reported with differing values,Not reported,Not reported,Not reported,Not applicable,Reported,1
+41,168,Saghatoleslami,2011,Not reported,Not reported,Reported,Reported with differing values,Not reported,Not reported,Partly reported,Not applicable,Partly reported,1
+42,50,Wang,2025,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+43,47,Jiang,2024,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Reported,Not reported,Not applicable,Reported,2
+44,48,Jiang,2024,Partly reported,Reported,Not reported,Reported,Not reported,Reported,Partly reported,Not applicable,Reported,4
+45,43,Rohani,2017,Not reported,Not reported,Not reported,Partly reported,Reported,Not reported,Partly reported,Not applicable,Partly reported,1
+46,58,Iskandar,2025,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+47,55,Zhou,2019,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Not reported,0
+48,59,Khan,2025,Not reported,Not reported,Partly reported,Partly reported,Reported,Not reported,Reported,Reported,Partly reported,3
+49,71,Tan,2023,Not reported,Not reported,Reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Reported,2
+50,77,Askarian,2016,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+51,78,Pradittiamphon,2016,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+52,61,Khan,2026,Partly reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+53,65,Wang,2026,Not reported,Reported,Reported,Reported,Not reported,Not reported,Not reported,Not applicable,Reported,4
+54,109,Al-Mughairi,2026,Partly reported,Reported,Not reported,Partly reported,Not reported,Reported,Partly reported,Reported,Partly reported,3
+55,169,Rahmdel Basmenj,2026,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+56,170,Paleja,2025,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not applicable,Not reported,0
+57,171,Wu,2025,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Reported,Reported,Not reported,2
+58,172,Ahmed,2024,Partly reported,Not reported,Reported,Reported,Not reported,Reported,Reported,Reported,Not reported,5
+59,99,Alimardani,2024,Reported,Reported,Partly reported,Partly reported,Reported,Reported,Reported,Reported,Partly reported,6
+60,106,Shady,2024,Partly reported,Reported,Partly reported,Partly reported,Not reported,Reported,Reported,Not applicable,Not applicable,3
+61,115,Santos,2023,Partly reported,Reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+62,112,Ali,2022,Partly reported,Not reported,Reported,Partly reported,Not reported,Reported,Reported,Reported,Not reported,4
+63,114,Santos,2022,Not reported,Not reported,Partly reported,Reported,Not reported,Reported,Reported,Reported,Reported,5
+64,113,Santos,2021,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,1
+65,107,Santos,2021,Not reported,Reported,Reported,Reported,Not reported,Reported,Reported,Reported,Reported,7
+66,98,Savage,2021,Partly reported,Reported,Reported,Partly reported,Not reported,Reported,Reported,Reported,Not reported,5
+67,100,Savage,2020,Not reported,Not reported,Partly reported,Partly reported,Reported,Reported,Reported,Reported,Not reported,4
+68,124,Rao,2019,Not reported,Not reported,Reported,Partly reported,Reported,Reported,Not reported,Not applicable,Partly reported,3
+69,111,Ali,2018,Not reported,Not reported,Partly reported,Partly reported,Not reported,Reported,Reported,Not reported,Reported,3
+70,116,Song,2014,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,2
+71,110,Sial,2026,Reported,Reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,4
+72,66,Wilailak,2026,Reported,Not reported,Partly reported,Partly reported,Reported,Not reported,Partly reported,Reported,Reported,4
+73,173,Ahmad,2022,Partly reported,Not reported,Reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,1
+74,174,Al-Hammadi,2022,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+75,51,Yan,2025,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,0
+76,81,Ali,2019,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not reported,Not reported,1
+77,79,Qyyum,2019,Not reported,Reported,Reported,Partly reported,Reported,Reported,Reported,Reported,Not reported,6
+78,175,Yin,2026,Not reported,Reported,Reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Partly reported,2
+79,176,Chong,2023,Not reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+80,177,Hedayati Moghaddam,2023,Not reported,Not reported,Not reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+81,69,Anisi,2022,Reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+82,178,Mukherjee,2022,Reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,1
+83,179,Mukherjee,2021,Reported,Not reported,Partly reported,Partly reported,Not reported,Reported,Partly reported,Not applicable,Partly reported,2
+84,180,Mukherjee,2021,Reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,2
+85,181,Kamin,2017,Not reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+86,182,Goh,2024,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,2
+87,183,Hedayati Moghaddam,2024,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+88,184,Wang,2024,Partly reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+89,36,Hamid,2022,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+90,37,Ren,2023,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not applicable,Reported,1
+91,76,Darwish,2008,Not reported,Not reported,Reported,Reported,Not reported,Not reported,Partly reported,Not applicable,Reported,3
+92,185,Khoshkalamyan,2026,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Reported,Reported,3
+93,186,Liu,2024,Not reported,Not reported,Reported,Reported,Not reported,Reported,Reported,Not applicable,Reported,5
+94,187,Ould Brahim,2021,Reported,Not reported,Not reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+95,56,Zhu,2020,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Reported,2
+96,188,Tavan,2016,Reported,Not reported,Not reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+97,189,Hernández Enríquez,2011,Not reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+98,84,Kim,2026,Not reported,Reported,Partly reported,Partly reported,Not reported,Reported,Partly reported,Not applicable,Reported,3
+99,190,Safarvand,2015,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,0
+100,49,Mandis,2024,Not reported,Not reported,Partly reported,Partly reported,Not reported,Reported,Reported,Reported,Reported,4
+101,46,Chen,2023,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Reported,Reported,2
+102,45,Mandis,2021,Not reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,1
+103,62,Ma,2026,Not reported,Reported,Not reported,Partly reported,Not reported,Reported,Reported,Reported,Partly reported,4
+104,63,Shahriari,2026,Partly reported,Not reported,Not reported,Reported with differing values,Not reported,Reported,Reported,Not applicable,Partly reported,2
+105,72,Abd El Hakim,2025,Reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+106,67,Pereira,2027,Partly reported,Not reported,Not reported,Partly reported,Not reported,Reported,Reported,Not applicable,Reported,3
+107,131,Shi,2027,Reported,Reported,Reported,Partly reported,Not reported,Reported,Partly reported,Not applicable,Not reported,4
+108,191,Xiao,2026,Reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,2
+109,192,Pirouzfar,2025,Reported,Not reported,Reported,Not reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+110,193,Mousavitabar,2024,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Reported,Reported,Reported,Not reported,3
+111,194,Zhou,2024,Reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,4
+112,195,Kazmi,2022,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+113,196,Qiu,2022,Not reported,Not reported,Reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Reported,2
+114,197,Zarezadeh,2022,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,0
+115,198,Sabbagh,2021,Reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+116,199,Sabbagh,2021,Reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+117,200,Alhameli,2020,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,1
+118,201,Sabbagh,2020,Not reported,Not reported,Reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+119,202,Shang,2019,Reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Partly reported,2
+120,203,Ma,2017,Not reported,Not reported,Partly reported,Reported with differing values,Not reported,Not reported,Reported,Not applicable,Partly reported,1
+121,12,Souza,2026,Not reported,Not reported,Reported,Reported with differing values,Not reported,Not reported,Not reported,Not applicable,Reported,2
+122,204,Wu,2024,Reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+123,205,Khoshnevisan,2021,Partly reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Reported,Not applicable,Not reported,1
+124,82,Ebrahimzadeh Sarvestani,2024,Partly reported,Not reported,Not reported,Not reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,0
+125,80,Ali,2018,Not reported,Not reported,Partly reported,Not reported,Not reported,Not reported,Not reported,Reported,Not reported,1
+126,206,Che Mat,2026,Not reported,Not reported,Partly reported,Not reported,Reported,Not reported,Partly reported,Reported,Reported,3
+127,75,Shi,2026,Reported,Not reported,Reported,Reported,Not reported,Not reported,Partly reported,Not applicable,Not reported,3
+128,207,Xiao,2023,Reported,Not reported,Partly reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+129,70,Wilkins,2022,Partly reported,Not reported,Not reported,Partly reported,Not reported,Reported,Reported,Reported,Partly reported,3
+130,68,Jahromi,2018,Reported,Not reported,Not reported,Reported,Not reported,Not reported,Reported,Not applicable,Not reported,3
+131,208,Alkatheri,2025,Partly reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,0
+132,209,Shafiei,2023,Reported,Reported,Not reported,Reported,Not reported,Not reported,Reported,Not applicable,Reported,5
+133,57,Syauqi,2024,Partly reported,Reported,Partly reported,Reported with differing values,Not reported,Not reported,Reported,Not applicable,Reported,3
+134,83,Ibrahim,2019,Reported,Not reported,Not reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Reported,2
+135,210,Kazerooni,2016,Not reported,Not reported,Partly reported,Reported with differing values,Not reported,Not reported,Not reported,Not applicable,Reported,1
+136,42,Adib,2015,Not reported,Not reported,Partly reported,Partly reported,Reported,Reported,Not reported,Not applicable,Reported,3
+137,73,Noh,2025,Not reported,Not reported,Partly reported,Partly reported,Not reported,Not reported,Partly reported,Not applicable,Partly reported,0
+138,60,An,2026,Partly reported,Not reported,Reported,Partly reported,Not reported,Reported,Reported,Not applicable,Reported,4
+139,64,Wang,2026,Partly reported,Reported,Not reported,Reported with differing values,Not reported,Reported,Partly reported,Reported,Reported,4
+140,44,Adib,2018,Not reported,Not reported,Partly reported,Partly reported,Reported,Reported,Partly reported,Not applicable,Reported,3
